@@ -1,2 +1,4 @@
 # Teste 1
- Primeiro repositório versionado
+ Primeiro repositório versionado.
+
+ Hello World!
